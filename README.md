@@ -5,7 +5,7 @@
 ## Guidelines
 
 Welcome to the **Concrete Brand Guidelines**. They outline the visual and verbal identity of our brand. 
-<b>
+<br>
 
 **LOGO**
 
